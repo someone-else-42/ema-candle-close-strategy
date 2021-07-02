@@ -1,0 +1,1 @@
+# ema-candle-close-strategy
